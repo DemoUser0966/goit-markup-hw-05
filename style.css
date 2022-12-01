@@ -1,0 +1,153 @@
+
+.head {
+    color: #212121;
+    text-decoration: none;
+    
+}
+
+ul {
+    list-style-type: none;}
+
+.head:hover{
+    color:#2196F3;;
+}
+
+.body { color: #212121;
+
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+
+}
+
+.header-name {
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        text-decoration: none;
+        color: #000000;
+}
+.name { color: #2196F3;
+    
+}
+
+.hero-title {
+    background-color: #2F303A;
+    color: #FFFFFF;
+    font-weight: 900;
+        font-size: 44px;
+        font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 900;
+            font-size: 44px;
+            line-height: 1.3;
+}
+.primery-button {
+    color: #FFFFFF;
+background: #2196F3;
+font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+}
+/*section-two*/
+
+.section-two {
+    font-size: 14px;
+}
+.h3 {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 1.1;
+        color: #212121;
+}
+.p-section {
+    color: #757575;
+}
+.h2 {
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.2;
+    color: #212121;;
+}
+
+.p-name-comand {
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #212121;
+
+}
+
+.footer {
+    background-color:#2F303A;
+    color: #FFFFFF;
+    
+ 
+}
+.footer-adress {
+    color: #FFFFFF ;
+    text-decoration: none;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.7;
+}
+.footer-name {
+    color:#FFFFFF;
+    text-decoration: none;
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px
+}
+/*portfolio*/
+
+ul {
+    list-style-type: none;
+}
+.portfolio-button {
+    cursor: pointer;
+        width: 130px;
+        height: 38px;
+        left: 961px;
+        top: 174px;
+  
+    
+}
+.portfolio-button: hover {
+    background-color: #F5F4FA;
+    color: #212121;
+}
+.p-one {
+    color: #212121;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+
+}
+.p-two {
+color:#757575 ;
+font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+ /*
+.photo{
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 1015px;
+        top: 262px;
+*/
