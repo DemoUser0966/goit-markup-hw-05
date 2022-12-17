@@ -303,45 +303,45 @@ justify-content: center;
 }
 
 .three-photo {
-    
+   
     
 }
 .img-three {
     position: relative;
+       justify-content: center;
+       align-items: center;
+    
 
 }
+/*
 .img-three::before {
 position: absolute;
 }
-
-
-/*
+*/
 .card-thumb {
-position: relative;
-width: 370px;
-    height: 70px;
-    
-}
 
+} 
 
 .overlay {
-   
-position: absolute;
-   align-items: center;
-   justify-content: center;
-    left: 0;
-    right: 0;
-    background: rgba(47, 48, 58, 0.8);
-    color: #FFFFFF;
-   
-}
-
-.text-overlay{
     padding: 27px 107px;
+       
+        align-items: center;
+        justify-content: center;
+        left: 0;
+        right: 0;
+        background: rgba(47, 48, 58, 0.8);
+        color: #FFFFFF;
+        width: 370px;
+            height: 70px;
+
+}
+
+.text-overlay {
+    position: absolute;
    
 
 }
-*/
+
 /*
 .three-name{
     padding: 27px 107px ;
@@ -672,7 +672,7 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1p
     color: #FFFFFF;
     transform: translateY(100%);
     transition:transform 250ms; 
-    opacity: 0.5;
+    opacity: ;
     
 
 }
